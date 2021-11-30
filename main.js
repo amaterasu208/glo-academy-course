@@ -1,6 +1,10 @@
-const div = document.getElementById('github')
+const title = 2
+const screens = 10
+let screenPrice = 5
+let rollback = 10
+const fullPrice = "fullprice"
+let adaptive = "Hello"
 
-const logged = () => {
-    console.log(div.textContent);
-    console.log('commits')
-}
+alert("Страницу стоит закрыть");
+console.log("Hello world!");
+
